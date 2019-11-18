@@ -1,3 +1,4 @@
+chromedriver_path = "C:/Users/janin/OneDrive/Documents/GitHub/chromedriver.exe"
 Twitter_App_ID = 17014691
 Twitter_Consumer_API_Key = "WQdCguuhZfRg0pYNdGpyLI0hN"
 Twitter_Consumer_Secret_API_Key = "Sqq79o2nyyJjNcnewMEqxIjg1ycUYcyiXMFFmds4PmvH1oog1Q"

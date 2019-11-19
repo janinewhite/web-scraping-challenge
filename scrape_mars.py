@@ -234,5 +234,6 @@ def scrape():
     items = db.mars.find()
     for item in items:
         print(item['Site'])
+    return db
 
 
